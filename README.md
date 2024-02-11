@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabigon-1015&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kabigon-1015&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kabigon-1015&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **kabigon-1015/kabigon-1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
